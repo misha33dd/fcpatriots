@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color: orangered;
+}
+ul{
+    color: rgb(253, 71, 25);
+}
+body{
+ background-color: burlywood;
+}
+li img{
+    width: 200px;
+}
+
+
+li p{
+    display: inline-block;
+    width: 300px;
+}
